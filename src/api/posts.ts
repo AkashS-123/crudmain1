@@ -1,6 +1,6 @@
 import type { Post } from "../types/post";
 
-const BASE_URL = "https://crudapi-7iuf.onrender.com";
+const BASE_URL = "https://crudmain1.onrender.com";
 
 export type NewPost = Omit<Post, "id">;
 
