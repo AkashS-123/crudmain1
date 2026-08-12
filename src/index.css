@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap");
+
+:root {
+  --font-display: "Fraunces", "Georgia", serif;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", "Courier New", monospace;
+
+  --paper: #f6f3ec;
+  --paper-raised: #fbf9f3;
+  --ink: #20303a;
+  --ink-soft: #3d4c54;
+  --rule: #c9bfa8;
+  --muted: #7a7566;
+  --accent: #c0392b;
+  --accent-dark: #a02f22;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}

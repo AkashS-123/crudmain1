@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Sable Leather Backpack",
+      "description": "A hand-stitched leather backpack with a padded laptop sleeve and brass hardware.",
+      "price": 129.99,
+      "photo": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=600&q=80&auto=format&fit=crop",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "title": "Ceramic Pour-Over Kettle",
+      "description": "A slow-neck kettle designed for even, controlled pours during your morning brew.",
+      "price": 39.5,
+      "photo": "https://images.unsplash.com/photo-1629440408433-a9e951bfbcd8?w=600&q=80&auto=format&fit=crop",
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "title": "Wool Overshirt",
+      "description": "A heavyweight wool overshirt built for cold mornings and long walks.",
+      "price": 88,
+      "photo": "https://images.unsplash.com/photo-1608635680046-aebf91c1a9c8?w=600&q=80&auto=format&fit=crop",
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "title": "Walnut Desk Organizer",
+      "description": "A solid walnut tray to keep pens, cards, and notebooks in one tidy place.",
+      "price": 45.25,
+      "photo": "https://images.unsplash.com/photo-1526566762798-8fac9c07aa98?w=600&q=80&auto=format&fit=crop",
+      "rating": 4.0
+    }
+  ]
+}
